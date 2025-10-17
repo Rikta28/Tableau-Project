@@ -23,3 +23,8 @@ CLM_FREQ:	Number of claims (in past 5 years)
 CLM_AMT:	If car was in a crash, what is the currently claimed amount(in dollars)
 CAR_AGE:	Age of car
 URBANICITY:	Where the car is being driven primarily
+
+Tableau Project Link - [https://public.tableau.com/app/profile/ruchi.rikta/viz/CarInsuranceClaim_17596758976520/TotalNumberOfCustomers]
+
+
+
